@@ -17,3 +17,7 @@
 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourwebsite.com
